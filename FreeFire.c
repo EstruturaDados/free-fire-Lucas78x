@@ -320,7 +320,7 @@ void menuPrincipal() {
     while (opc != 0) {
         limparTela();
         printf("=======================================\n");
-        printf("        TORRE DE RESGATE - FASE FINAL  \n");
+        printf("        TORRE DE RESGATE - MASTER  \n");
         printf("=======================================\n");
         printf("Componentes cadastrados: %d / %d\n", numComponentes, MAX_COMP);
         printf("Estado para busca binaria por nome: %s\n",
